@@ -1,4 +1,4 @@
-# OpenGL-PerlinNoise
+# OpenGL-TerrainUsingPerlinNoise
 
 ## Description
 
